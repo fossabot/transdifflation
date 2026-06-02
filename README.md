@@ -1,4 +1,5 @@
 # Transdifflation [![travis-ci](https://secure.travis-ci.org/Sage/transdifflation.png)](http://travis-ci.org/#!/Sage/transdifflation)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsage-portugal%2Ftransdifflation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsage-portugal%2Ftransdifflation?ref=badge_shield)
 
 What is Transdifflation? Transdifflation is a portmanteau of 'Translation' and 'Diff'.  It helps you to manage the translation of Rails i18n strings that appear in your application and the Ruby Gems it includes.
 
@@ -105,3 +106,7 @@ ignore_paths too.
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsage-portugal%2Ftransdifflation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsage-portugal%2Ftransdifflation?ref=badge_large)
